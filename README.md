@@ -1,9 +1,12 @@
+# 📝 Task Management Application
+A full-stack web application to manage daily tasks efficiently. Built with **Java Spring Boot** on the backend and a responsive frontend UI, this app allows users to create, update, delete, and track tasks with priority and status filters.
+
 <img width="1889" height="920" alt="image" src="https://github.com/user-attachments/assets/4ba1cb81-edd8-4402-8af2-2177d37651e4" />
 <img width="1901" height="900" alt="image" src="https://github.com/user-attachments/assets/a9342cce-be4f-4b0a-9b73-7d900b2a23a3" />
 
-# 📝 Task Management Application
 
-A full-stack web application to manage daily tasks efficiently. Built with **Java Spring Boot** on the backend and a responsive frontend UI, this app allows users to create, update, delete, and track tasks with priority and status filters.
+
+
 
 ---
 
