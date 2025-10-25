@@ -15,7 +15,6 @@ A full-stack web application to manage daily tasks efficiently. Built with **Jav
 - ✅ **CRUD Operations** for tasks (Create, Read, Update, Delete)
 - 🔐 **User Authentication** (Login/Logout)
 - 📌 **Task Prioritization** (High, Medium, Low)
-- 📅 **Due Date Tracking**
 - 🏷️ **Tag & Status Filters**
 - ✏️ **Edit and Mark Completion**
 - 📊 Responsive UI with sorting and filtering options
